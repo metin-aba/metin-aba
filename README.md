@@ -14,6 +14,8 @@ Hello I'm Metin. I graduated with a bachelor's degree from Fırat university and
 
 ## 🐦 Latest Tweet
 [![](https://gtce.itsvg.in/api?username=rmetinaba)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
+[![](https://gtce.itsvg.in/api?username=metin-aba-)](https://github.com/VishwaGauravIn/github-linkedin-card-embed)
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Metinaba&icon=0&color=0)](https://visitcount.itsvg.in)
